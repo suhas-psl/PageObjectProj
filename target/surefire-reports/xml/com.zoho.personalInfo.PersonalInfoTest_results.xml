@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="High Priority Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.931">
+  <properties />
+  
+  
+            <testcase name="testPersonalInfo" time="9.931" classname="com.zoho.personalInfo.PersonalInfoTest" />
+      
+</testsuite>
