@@ -37,7 +37,7 @@ public class PersonalInfoTest extends Page {
 
 	String expectedErrorMsg = "Please fix the following errors";
 	
-	Assert.assertTrue(expectedErrorMsg.equals(personal.getErrorMsg()), "Error message not same");
+	Assert.assertTrue(expectedErrorMsg.equals(personal.getErrorMsg()), "Error message is not same");
 	
 }
 
